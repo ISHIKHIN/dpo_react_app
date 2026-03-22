@@ -1,10 +1,10 @@
 {
   "name": "dpo_react_app",
+  "homepage": "https://ishikhin.github.io/dpo_react_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://ishikhin.github.io/dpo_react_app",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
